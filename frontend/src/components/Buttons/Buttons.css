@@ -1,0 +1,60 @@
+/* spotify button */
+
+.spotify-btn {
+    background-color: #00F658;
+    background-size: 1000% 1000%;
+    border: 5px solid white;
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 280px;
+    height: 75px;
+    padding: 5px 20px 5px 20px;
+    border-radius: 40px;
+    transition: transform 0.2s ease;
+    cursor: pointer;
+  }
+
+.spotify-btn:hover {
+    background-color: #ffffff;
+    border-color: #24e831;
+    color: #18d615;
+    transform: scale(0.9);
+  }
+
+.spotify-btn:active {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #ffffff;
+    transform: scale(1.1);
+  }
+
+.spotify-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .spotify-text-normal {
+    margin-right: 6px;
+    font-weight: normal;
+  }
+  
+  .spotify-text-bold {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+  
+  .spotify-text-bold > p{
+    margin-bottom: 6px;
+  }
+  
+  .spotify-disclaimer {
+    font-size: 10px;
+    margin-top: 2px;
+    color: #080808;
+  }

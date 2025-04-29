@@ -1,0 +1,24 @@
+.header-container {
+    background: linear-gradient(to bottom, #000000, #1ED760);
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo {
+    color: #1ED760;
+    font-family: "Audiowide", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 3em;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.hyperlink{
+    color: white;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 20px;
+}

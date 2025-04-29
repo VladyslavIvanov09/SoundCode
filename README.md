@@ -1,2 +1,19 @@
-# your-taste-in-music
-A little web app that can show your taste in music 
+## SOUNDCODE BY VLADYSLAV (INNOCENTIUS) IVANOV
+
+## FRONTEND
+
+## 🚀 Stack
+
+# - Html
+# - CSS/Sass
+# - JavaScript
+# - React 
+# - REST API
+
+## 📦 Installation
+
+```bash
+git https://github.com/VladyslavIvanov09/SoundCode
+cd frontend
+npm install
+npm start
