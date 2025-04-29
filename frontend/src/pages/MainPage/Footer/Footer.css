@@ -1,5 +1,5 @@
 .footer-container {
-    background: linear-gradient(to top, #000000, #1ED760);
+    background-color: #dcead7;
     margin: 0 auto;
     padding-top: 50px;
     height: 240px;
@@ -7,7 +7,7 @@
 }
 
 .logo {
-    color: white;
+    color: #4B5743;
     font-family: "Audiowide", sans-serif;
     font-weight: bolder;
     font-style: normal;
@@ -30,6 +30,7 @@
   justify-content: center;
   align-items: center;
   gap: 30px;
+  color:#4B5743;
 }
 
 .footer-icon{
@@ -54,6 +55,7 @@
     cursor: pointer;
     font-family: "Ubuntu", sans-serif;
     font-style: normal;
+    color:#4B5743;
   }
   
   .footer-links:hover {

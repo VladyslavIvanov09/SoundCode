@@ -1,15 +1,15 @@
 .main-container{
   height: auto;
-  background-color: #1ED760;
+  background-color: #F8FBF7;
 }
 
 .first-text-block{
-    font-family: "Audiowide", sans-serif;
+    font-family: "Bree Serif", serif;
     display: flex;
     justify-content: center;
     font-size: 50px;
     padding: 50px 0px 50px 0px;
-    color:white;
+    color:#4B5743;
 }
 
 .first-combined-block{
@@ -24,18 +24,18 @@
 }
 
 .main-right-text{
-    font-family: "Audiowide", sans-serif;
+    font-family: "Bree Serif", serif;
     display: flex;
     font-size: 40px;
     padding: 50px 0px 50px 0px;
-    color:white;
+    color:#4B5743;
 }
 
 .light-right-text{
     font-family: "Ubuntu", sans-serif;
     display: flex;
     font-size: 25px;
-    color:white;
+    color:#4B5743;
 }
 
 .features-block, .join-block{
@@ -64,10 +64,10 @@
     margin: 25px;
     grid-column: 2 / 5; 
     grid-row: 1 / 1;  
-    font-family: "Audiowide", sans-serif;
+    font-family: "Bree Serif", serif;
     display: flex;
     font-size: 40px;
-    color:white;
+    color:#4B5743;
 }
 
 .feature-block p{
@@ -77,15 +77,15 @@
     font-family: "Ubuntu", sans-serif;
     display: flex;
     font-size: 25px;
-    color:white;
+    color:#4B5743;
 }
 
 .join-block h2{
     margin-top: 50px;
     margin-bottom: 50px;
-    font-family: "Audiowide", sans-serif;
+    font-family: "Bree Serif", serif;
     font-size: 50px;
-    color:white;
+    color:#4B5743;
 }
 
 .join-block {

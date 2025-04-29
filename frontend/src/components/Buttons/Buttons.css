@@ -1,11 +1,11 @@
 /* spotify button */
 
 .spotify-btn {
-    background-color: #00F658;
+    background-color: #A8D5BA;
     background-size: 1000% 1000%;
     border: 5px solid white;
     font-family: "Ubuntu", sans-serif;
-    color: white;
+    color: #4B5743;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,15 +20,15 @@
 
 .spotify-btn:hover {
     background-color: #ffffff;
-    border-color: #24e831;
-    color: #18d615;
+    border-color: #c8fbdc;
+    color: #353d2f;
     transform: scale(0.9);
   }
 
 .spotify-btn:active {
-    background-color: #ffffff;
-    border-color: #ffffff;
-    color: #ffffff;
+    background-color: #A8D5BA;
+    border-color: #A8D5BA;
+    color: #A8D5BA;
     transform: scale(1.1);
   }
 
@@ -56,5 +56,5 @@
   .spotify-disclaimer {
     font-size: 10px;
     margin-top: 2px;
-    color: #080808;
+    color: #4B5743;
   }
